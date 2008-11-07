@@ -1,0 +1,49 @@
+/* -----------------------------------------------------
+	Base
+----------------------------------------------------- */
+* { margin: 0; padding: 0; }
+html, body { height: 100%; margin: 0 0 1px 0; padding: 0; }
+body { font: 72.5% Verdana, Arial, sans-serif; color: #353535; background: #fff; }
+
+/* -----------------------------------------------------
+	Structure
+----------------------------------------------------- */
+
+
+/* -----------------------------------------------------
+	Images
+----------------------------------------------------- */
+a img { border: none; }
+p img { padding: 0; max-width: 100%; }
+img.centered { display: block; margin: 15px auto; padding: 0; }
+img.alignright { display: inline; margin: 15px 20px; }
+img.alignleft { display: inline; margin: 15px 20px; }
+.alignright { float: right; }
+.alignleft { float: left; }
+
+/* -----------------------------------------------------
+	Links
+----------------------------------------------------- */
+a { color: #AE3232; text-decoration: none; }
+a:hover { color: #AE3232; text-decoration: underline; }
+a:focus, a:active { outline: none; }
+
+/* -----------------------------------------------------
+	Common, Misc...
+----------------------------------------------------- */
+.hidden, hr { display: none; }
+.clear { clear: both; }
+
+/* -----------------------------------------------------
+	P.I.E. FLOAT CLEARING
+	www.positioniseverything.net/easyclearing.html
+----------------------------------------------------- */
+.clearfix:after { clear: both; content: "."; display: block; height: 0; visibility: hidden; }
+
+/* Fixes IE/Mac */
+.clearfix { display: inline-block; }
+
+/* Hides from IE-mac \*/
+* html .clearfix { height: 1%; }
+.clearfix { display: block; }
+/* End hide from IE-mac */

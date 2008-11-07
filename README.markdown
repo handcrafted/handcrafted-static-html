@@ -2,8 +2,16 @@
 
 ##Description
 
-The Handcrafted Static HTML is a HTML base for creating static click models or simple static web projects.
+Handcrafted Static HTML is a HTML base for creating simple static web projects or static click models. Rather than recreate the wheel each time, you can use this as a strong starting point with smart common defaults in place so you can get started right away.
 
-##Notes
+Feel free to contribute. If you have questions, email [hello@gethandcrafted.com](mailto:&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x67;&#x65;&#x74;&#x68;&#x61;&#x6E;&#x64;&#x63;&#x72;&#x61;&#x66;&#x74;&#x65;&#x64;&#x2E;&#x63;&#x6F;&#x6D;).
 
-If you plan to use jQuery, you might need to update it to the latest version before getting started.
+##JavaScript
+
+Handcrafted Static HTML supports jQuery out of the box. However, it's possible you might need to update to the latest version before getting started.
+
+* [jQuery](http://jquery.com/ "jQuery: The Write Less, Do More, JavaScript Library")
+
+##Credits
+
+Created by [Adam Stacoviak](http://www.adamstacoviak.com/ "Adam Stacoviak | Web Development, Interface Design, User Experience &amp; Internet Marketing"), co-founder of [Handcrafted](http://gethandcrafted.com/ "Handcrafted &ndash; Ruby on Rails Development Consulting Firm, Interface Design, User Experience, Web Marketing"), a Rails Development Consulting Firm.
