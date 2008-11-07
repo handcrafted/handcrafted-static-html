@@ -4,7 +4,7 @@
 
 Handcrafted Static HTML is a HTML base for creating simple static web projects or static click models. Rather than recreate the wheel each time, you can use this as a strong starting point with smart common defaults in place so you can get started right away.
 
-Feel free to contribute. If you have questions, email [hello@gethandcrafted.com](mailto:&#x68;&#x65;&#x6C;&#x6C;&#x6F;&#x40;&#x67;&#x65;&#x74;&#x68;&#x61;&#x6E;&#x64;&#x63;&#x72;&#x61;&#x66;&#x74;&#x65;&#x64;&#x2E;&#x63;&#x6F;&#x6D;).
+Feel free to contribute. If you have questions, email [hello@gethandcrafted.com](mailto:hello@gethandcrafted.com).
 
 ##JavaScript
 
