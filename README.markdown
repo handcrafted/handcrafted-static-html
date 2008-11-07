@@ -1,7 +1,9 @@
-Static Website Framework
-======================================
+#Handcrafted Static HTML
 
-bq. Created by: Adam Stacoviak
-bq. Date Created: Thursday - March 20, 2008
+##Description
 
-This is a base site structure for creating static interface or simply a static web project. If using jQuery, you may need to update to the latest greatest flavor available.
+The Handcrafted Static HTML is a HTML base for creating static click models or simple static web projects.
+
+##Notes
+
+If you plan to use jQuery, you might need to update it to the latest version before getting started.
